@@ -1,16 +1,22 @@
 list/Example001.java
  list.Example001
-queue/Example001.java
- queue.Example001
+map/ExampleHashMap.java
+ map.ExampleHashMap
+map/ExampleHashTable.java
+ map.ExampleHashTable
 map/ExampleTreeMap.java
  map.ExampleTreeMap
-set/ExampleTreeSet.java
- set.ExampleTreeSet
 set/ExampleHashSet.java
  set.ExampleHashSet
 set/ExampleLinkedHashSet.java
  set.ExampleLinkedHashSet
-map/ExampleHashTable.java
- map.ExampleHashTable
-map/ExampleHashMap.java
- map.ExampleHashMap
+queue/Example001.java
+ queue.Example001
+set/ExampleTreeSet.java
+ set.ExampleTreeSet
+comparators/Estudante.java
+ comparators.Estudante
+comparators/EstudanteComparatorRevers.java
+ comparators.EstudanteComparatorRevers
+comparators/Example.java
+ comparators.Example
