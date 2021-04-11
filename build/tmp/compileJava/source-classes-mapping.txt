@@ -20,3 +20,7 @@ comparators/EstudanteComparatorRevers.java
  comparators.EstudanteComparatorRevers
 comparators/Example.java
  comparators.Example
+options/Example.java
+ options.Example
+stream/Example.java
+ stream.Example
