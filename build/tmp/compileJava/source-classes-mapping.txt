@@ -1,0 +1,23 @@
+functional/Imutabilidade.java
+ functional.Imutabilidade
+functional/Example.java
+ functional.Example
+functional/ComposicaoFuncoes.java
+ functional.ComposicaoFuncoes
+functional/recursividade/Example.java
+ functional.recursividade.Example
+functional/recursividade/TailCall.java
+ functional.recursividade.TailCall
+functional/FuncoesPuras.java
+ functional.FuncoesPuras
+aula2/FuncaoAltaOrdem.java
+ aula2.Calculo
+ aula2.FuncaoAltaOrdem
+aula2/Consumers.java
+ aula2.Consumers
+aula2/Funcoes.java
+ aula2.Funcoes
+aula2/Predicados.java
+ aula2.Predicados
+aula2/Supridores.java
+ aula2.Supridores
