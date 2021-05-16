@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/example.module.cors/example.module.cors.iml" filepath="$PROJECT_DIR$/example.module.cors/example.module.cors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example.module.utils/example.module.utils.iml" filepath="$PROJECT_DIR$/example.module.utils/example.module.utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules.iml" filepath="$PROJECT_DIR$/modules.iml" />
+    </modules>
+  </component>
+</project>
